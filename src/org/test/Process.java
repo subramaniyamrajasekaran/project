@@ -7,5 +7,9 @@ public static void main(String[] args) {
 	
 	String s1="hello bro";
 	System.out.println(s1);
+
+	String s2="hello udhay";
+	System.out.println(s2);
+
 }
 }
